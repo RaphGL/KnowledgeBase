@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "2e97b67060559c3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8eed0c72feddabd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db64a56f850d57c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d746171b8d3ba042",
+    "type": "split",
+    "children": [
+      {
+        "id": "23128abb6c1a4b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7982093ff6ab2420",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bef4497f153a4eac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a08ce2838217ac6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30cc1286611f659e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e30e283d2c85b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5b4dab29abd0be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f592a1588904e388",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b0269ec94feac92c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8af36ef7e80b253c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "db64a56f850d57c9",
+  "lastOpenFiles": [
+    "LICENSE",
+    "README.mdhBWqiB.bck",
+    "README.md",
+    "Programming/Security/Cryptographic Basics.md",
+    "Programming/Security/Security Basics.md",
+    "Untitled.canvas",
+    "Electronics",
+    "Mathematics/Untitled",
+    "Mathematics",
+    "Programming",
+    "Programming/Security",
+    "Welcome.md"
+  ]
+}
